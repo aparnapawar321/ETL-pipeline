@@ -1,0 +1,11 @@
+ID,Name,Age,Salary,Department
+1,John Doe,30,50000,Engineering
+2,Jane Smith,,60000,Marketing
+3,Bob Johnson,35,,Sales
+4,,28,45000,Engineering
+5,Alice Brown,32,55000,
+6,Charlie Wilson,45,75000,Management
+7,Diana Prince,,65000,Marketing
+8,Ethan Hunt,29,48000,Engineering
+9,Fiona Green,31,,Sales
+10,George Miller,38,70000,Management

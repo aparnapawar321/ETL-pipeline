@@ -1,0 +1,11 @@
+id,name,age,salary,department,row_id
+1,John Doe,30.0,50000.0,Engineering,1
+2,Jane Smith,,60000.0,Marketing,2
+3,Bob Johnson,35.0,,Sales,3
+4,,28.0,45000.0,Engineering,4
+5,Alice Brown,32.0,55000.0,,5
+6,Charlie Wilson,45.0,75000.0,Management,6
+7,Diana Prince,,65000.0,Marketing,7
+8,Ethan Hunt,29.0,48000.0,Engineering,8
+9,Fiona Green,31.0,,Sales,9
+10,George Miller,38.0,70000.0,Management,10
